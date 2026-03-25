@@ -11,7 +11,7 @@ Features
 * Predict biomass using Linear Regression
 * Interactive UI using Gradio
 
-🛠️ Technologies Used
+Technologies Used
 
 * Python
 * OpenCV
